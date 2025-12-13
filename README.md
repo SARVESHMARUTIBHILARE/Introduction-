@@ -63,8 +63,8 @@ I build reliable, maintainable software and help teams move faster:
 ---
 
 ## How to Reach Me
-- Email: your-email@example.com
-- LinkedIn: https://www.linkedin.com/in/your-profile
+- Email: bhilaresarveshmaruti@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sarvesh-maruti-bhilare-41ba3436b
 - Twitter: https://twitter.com/your-handle
 - Website / Portfolio: https://your-site.example
 
