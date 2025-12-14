@@ -44,7 +44,7 @@ I build reliable, maintainable software and help teams move faster:
 ## Featured Projects
 > These are snapshots — share which projects you'd like featured and I’ll tailor descriptions and links.
 
-- [Project One — Awesome App](https://github.com/your-username/project-one)  
+- [Project One — Awesome Ui/Ux](https://github.com/your-username/project-https://www.figma.com/proto/iJ0ObwHFDwiz13g9saVnkR/65--Resturent-Website-templates--Community-?node-id=2080-32&t=ASoAnPnSPRztEriq-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2065%3A5369)  
   A short, 1-line description highlighting impact or tech used.
 
 - [Project Two — Dev Tooling](https://github.com/your-username/project-two)  
