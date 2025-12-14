@@ -77,7 +77,7 @@ I build reliable, maintainable software and help teams move faster:
 
 <!-- Example badges (replace with your GH username to enable): -->
 ![GitHub stats](https://github.com/users/SARVESHMARUTIBHILARE/achievements/pull-shark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default)
+
 
 ---
 
