@@ -103,26 +103,3 @@ If you like this README, I can:
 
 ---
 
-## To personalize this README, please provide:
-- Full name and preferred display name (if different)
-- Professional title / current role
-- Short bio (1–2 sentences) or I can draft one for you
-- Top 5 skills/technologies you want highlighted
-- 3–6 favorite projects (name, repo link, 1-line description for each)
-- Links to share (email, LinkedIn, Twitter, website, resume)
-- Location (optional) and pronouns (optional)
-- Tone preference: Professional / Friendly / Creative / Minimal
-- Any badges or stats you want included (e.g., GitHub stats, top langs)
-- Profile photo URL (optional)
-- Anything you definitely do NOT want shown
-
-Once you send those, I’ll update the README (replace placeholders, add real links, tune wording, and include any badges or visuals you prefer).# Hi there 👋 I'm SARVESHMARUTIBHILARE
-
-> Building meaningful software, exploring open source, and shipping delightful solutions.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-orange?logo=gmail&logoColor=white)](#)
-[![Website](https://img.shields.io/badge/Portfolio-Visit-purple?logo=about.me&logoColor=white)](#)
-
----
-
