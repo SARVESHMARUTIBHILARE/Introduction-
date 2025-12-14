@@ -103,13 +103,3 @@ If you like this README, I can:
 
 ---
 
-# Hi there 👋 I'm SARVESHMARUTIBHILARE
-
-> Building meaningful software, exploring open source, and shipping delightful solutions.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-orange?logo=gmail&logoColor=white)](#)
-[![Website](https://img.shields.io/badge/Portfolio-Visit-purple?logo=about.me&logoColor=white)](#)
-
----
-
