@@ -76,7 +76,7 @@ I build reliable, maintainable software and help teams move faster:
 > I keep my repositories focused, documented, and contribution-friendly. If you'd like, I can add live GitHub stats and language breakdown badges here.
 
 <!-- Example badges (replace with your GH username to enable): -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![GitHub stats](https://github.com/users/SARVESHMARUTIBHILARE/achievements/pull-shark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default)
 
 ---
