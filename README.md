@@ -34,9 +34,9 @@ I build reliable, maintainable software and help teams move faster:
 ## Core Skills & Technologies
 - Languages: JavaScript, TypeScript, Python, Go
 - Frontend: React, Next.js, HTML, CSS
-- Backend: Node.js, Express, FastAPI, gRPC
-- DevOps & Cloud: Docker, Kubernetes, Terraform, GitHub Actions
-- Datastores: PostgreSQL, Redis, MongoDB
+- Backend: Node.js,basic of java and python 
+- DevOps & Cloud: GitHub Actions
+- Datastores: PostgreSQL, MySQL, MongoDB
 - Testing & Quality: Jest, Playwright, ESLint, Prettier
 
 ---
