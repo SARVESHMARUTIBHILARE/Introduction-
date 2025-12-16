@@ -47,7 +47,7 @@ I build reliable, maintainable software and help teams move faster:
 - [Project One — Awesome Ui/Ux](https://www.figma.com/proto/iJ0ObwHFDwiz13g9saVnkR/65--Resturent-Website-templates--Community-?node-id=2080-32&t=ASoAnPnSPRztEriq-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2065%3A5369)  
   A short, 1-line description highlighting impact or tech used.
 
-- [Project Two — Dev Tooling](https://github.com/your-username/project-two)  
+- [Project Two — mobile software and hardware Tooling](https://share.google/Rmhamtxxma8oM4nfB)  
   A short, 1-line description focusing on developer experience or automation.
 
 - [Project Three — Open Source Lib](https://github.com/your-username/project-three)  
