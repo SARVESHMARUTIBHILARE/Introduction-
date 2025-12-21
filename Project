@@ -227,4 +227,80 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [Build a simple Twitter Bot with Node.js - PART 2](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-part-2-do-more-2ef1e039715d)
   * [Build a simple Weather App with Node.js in just 16 lines of code](https://codeburst.io/build-a-simple-weather-app-with-node-js-in-just-16-lines-of-code-32261690901d)
   * [Learn to build an Amazon Alexa Skill with Node.js (and get paid to do it)](https://codeburst.io/learn-to-build-an-amazon-alexa-skill-with-node-js-and-get-paid-to-do-it-cf55ae534650)
- 
+ * [Building a modern backend API with Node](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+  * [Node JS Login with Passport - YouTube](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
+  * [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+* Optimization Techniques
+  * [Make your node server faster by caching responses with redis](https://community.risingstack.com/redis-node-js-introduction-to-caching/)
+   
+
+
+---
+### Learn Python
+* [15 Free e-books to learn Python](https://medium.com/@bmorelli25/15-free-ebooks-to-learn-python-c299943f9f2c)
+* [Programming Foundations with Python - Udacity](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+* [Designing RESTful APIs - Udacity](https://www.udacity.com/course/designing-restful-apis--ud388)
+
+---
+### Learn APIs
+
+* Where to start with learning APIs [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5761ir/where_to_start_with_learning_how_to_use_apis/)
+  * [What is an API? In English Please. (Medium)](https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82#.vewp5i2n4)
+  * [Build a simple Weather App with Node.js in just 16 lines of code](https://codeburst.io/build-a-simple-weather-app-with-node-js-in-just-16-lines-of-code-32261690901d)
+  * [Build Node.js RESTful APIs in 10 Minutes](https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd)
+  * [Free Intro to APIs Book/Course by Zapier](https://zapier.com/learn/apis/)
+  * [Google Maps API](https://developers.google.com/maps/documentation/)
+  * [Distance Calculator Web Services API](https://developers.google.com/maps/documentation/distance-matrix/start)
+  * [Build and Secure a Backend API Server](https://www.udacity.com/course/designing-restful-apis--ud388)
+
+---
+### Learn Databases
+* [SQL vs NoSQL](https://www.digitalocean.com/community/tutorials/understanding-sql-and-nosql-databases-and-different-database-models)
+* [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197) - SQL, DB-API, and More!
+* [MongoDB University](https://university.mongodb.com/) - Numerous classes on learning MongoDB
+* [PostgreSQL Tutorial](https://www.tutorialspoint.com/postgresql/)
+* [PostgreSQL Exercises](https://pgexercises.com/)
+* [Learn PostgreSQL (GitHub)](https://github.com/dwyl/learn-postgresql)
+* [Try Redis](https://try.redis.io/)
+* [Redis Tutorial](https://www.tutorialspoint.com/redis/)
+
+---
+### Learn Authentication
+* [Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
+* [Learn about JSON Web Tokens](https://jwt.io/introduction/)
+* [JWT Sample App Example](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens)
+* [OAuth 2](https://aaronparecki.com/oauth-2-simplified/#web-server-apps)
+* [Passwordless Authentication with React and Auth0](https://medium.com/javascript-scene/passwordless-authentication-with-react-and-auth0-c4cb003c7cde#.l1joiokr2)
+
+---
+### Learn Git
+* Official [Tutorial](https://try.github.io/levels/1/challenges/1) - Learn Git in 15 Minutes
+* Official [Docs](https://git-scm.com/documentation)
+* Other Tuts:
+  * [Git, the simple guide](http://rogerdudler.github.io/git-guide/)
+  * [Learn Git Branching - Level by Level learning](http://learngitbranching.js.org/)
+  * [Learn Git in 30 Minutes - Article](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
+  * [Here are all the Git commands I used last week and what they do (Medium)](https://medium.freecodecamp.com/git-cheat-sheet-and-best-practices-c6ce5321f52)
+* Why to Use GIT [No, I have no side projects to show you](https://www.linkedin.com/pulse/i-have-side-code-projects-show-you-ezekiel-buchheit)
+
+---
+### Games and Challenge Websites
+
+* Games to learn Programming in an easy and fun way [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5wwkxi/do_you_recommend_any_games_to_learn_coding_in_an/)
+  * [Flex Box Froggy](http://flexboxfroggy.com/)
+  * [Flex Box Defense](http://www.flexboxdefense.com/)
+  * [Edabit](https://edabit.com/explore)
+  * [Coding Game](https://www.codingame.com)
+  * [Elevator Saga - JS](http://play.elevatorsaga.com/)
+  * [Scratch - Absolute Basics](https://scratch.mit.edu/)
+  * [Hacked - Mobile App teaching through puzzles](http://www.hackedapp.com/)
+
+* Coding Challenge Websites [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5oxwjj/any_good_sitesapps_for_small_coding_exercises/) [[Reddit Link #2]](https://www.reddit.com/r/learnprogramming/comments/5g3xgi/anyone_knows_the_name_of_a_website_to_learn_to/)
+  * [Medium - 10 most popular coding challenge sites of 2016](https://medium.com/coderbyte/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f#.fn8c7imvk)
+  * [Codechef](https://www.codechef.com/)
+  * [Code Wars](https://www.codewars.com/)
+  * [Coding Game](https://www.codingame.com)
+  * [Hacker Rank (some debate about this being good/bad](https://www.hackerrank.com/domains/cpp/cpp-introduction)
+  * [Project Euler (math focus)](https://projecteuler.net/)
+  * [Exercism](http://exercism.io/)
+
