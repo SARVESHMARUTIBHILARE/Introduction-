@@ -1,6 +1,6 @@
 # Introduction-
-I am introducing my self to everyone 
-# Hi there 👋 I'm SARVESHMARUTIBHILARE
+I am introducing my self
+# Hi there 👋 I'm SARVESH MARUTI BHILARE
 
 > Building meaningful software, exploring open source, and shipping delightful solutions.
 
@@ -34,9 +34,9 @@ I build reliable, maintainable software and help teams move faster:
 ## Core Skills & Technologies
 - Languages: JavaScript, TypeScript, Python, Go
 - Frontend: React, Next.js, HTML, CSS
-- Backend: Node.js, Express, FastAPI, gRPC
-- DevOps & Cloud: Docker, Kubernetes, Terraform, GitHub Actions
-- Datastores: PostgreSQL, Redis, MongoDB
+- Backend: Node.js,basic of java and python 
+- DevOps & Cloud: GitHub Actions
+- Datastores: PostgreSQL, MySQL, MongoDB
 - Testing & Quality: Jest, Playwright, ESLint, Prettier
 
 ---
@@ -44,10 +44,10 @@ I build reliable, maintainable software and help teams move faster:
 ## Featured Projects
 > These are snapshots — share which projects you'd like featured and I’ll tailor descriptions and links.
 
-- [Project One — Awesome App](https://github.com/your-username/project-one)  
+- [Project One — Awesome Ui/Ux](https://www.figma.com/proto/iJ0ObwHFDwiz13g9saVnkR/65--Resturent-Website-templates--Community-?node-id=2080-32&t=ASoAnPnSPRztEriq-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2065%3A5369)  
   A short, 1-line description highlighting impact or tech used.
 
-- [Project Two — Dev Tooling](https://github.com/your-username/project-two)  
+- [Project Two — mobile software and hardware Tooling](https://share.google/Rmhamtxxma8oM4nfB)  
   A short, 1-line description focusing on developer experience or automation.
 
 - [Project Three — Open Source Lib](https://github.com/your-username/project-three)  
@@ -76,8 +76,8 @@ I build reliable, maintainable software and help teams move faster:
 > I keep my repositories focused, documented, and contribution-friendly. If you'd like, I can add live GitHub stats and language breakdown badges here.
 
 <!-- Example badges (replace with your GH username to enable): -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default)
+![GitHub stats](https://github.com/users/SARVESHMARUTIBHILARE/achievements/pull-shark)
+
 
 ---
 
